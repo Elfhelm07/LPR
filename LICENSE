@@ -1,0 +1,60 @@
+Copyright (C) VaultxLedger. All rights reserved.
+
+Proprietary License Agreement for Project SecureScan Source Code
+
+Effective From September 23, 2024
+
+1. Project Overview
+   This License Agreement ("Agreement") governs the use of the source code
+   of Project SecureScan, the technical specifications of which are
+   highlighted in the README.md file.
+
+2. Ownership
+   VaultxLedger ("Licensor") retains all rights, title, and interest in the
+   source code and associated materials related to Project SecureScan.
+
+3. Usage Rights
+- Authorized users may read and modify the source code. The following people
+  are authorized to access and manipulate the source code:  
+   - Kartik Joshi
+   - Divyapalsingh Chauhan
+   - Darshil Mistry
+   - Susmit Kulkarni
+
+- The source code must be stored only in the original repository and may not
+  be distributed or shared with unauthorized individuals under any circumstances.
+
+- Unauthorized users have no rights to access, use, or modify the source code.
+
+4. Licensing and Liability
+   The source code is provided for internal use exclusively by VaultxLedger, 
+   free of charge. The Licensor offers the source code "as-is" without any 
+   warranties, and assumes no liability for direct or indirect damages arising 
+   from its use. The source code is strictly prohibited from being shared or 
+   distributed beyond authorized internal parties.
+
+5. Deployment
+   VaultxLedger retains sole responsibility for deploying the source code and the 
+   final software on the services specified by the client. Further details regarding 
+   deployment, including all relevant terms and conditions, are outlined in the 
+   End User License Agreement (EULA).
+
+6. Termination
+   Access to the source code can be revoked at the Licensor's discretion,
+   particularly in cases of breach of this Agreement or the termination of
+   employment.
+
+7. Governing Law
+   This Agreement shall be governed by and construed in accordance with the laws of
+   India.
+
+8. Confidentiality
+   All of the source code and related information are confidential and may only be
+   accessed by authorized individuals. Unauthorized disclosure of this information
+   may result in disciplinary action and/or legal consequences.
+
+9. Additional Provisions
+   All authorized personnel must review and acknowledge the terms of this Agreement
+   outlining their rights and responsibilities.
+
+By accessing the source code, the developer agrees to abide by the terms set forth.
